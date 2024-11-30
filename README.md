@@ -9,3 +9,4 @@
   
  app.kernal.do_shutdown(True)
 # TextAnaysisPipeline-Agent
+*   https://github.com/Ammara-aziz/TextAnaysisPipeline-Agent/blob/main/TextAnalysis.ipynb
